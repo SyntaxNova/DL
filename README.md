@@ -1,8 +1,8 @@
-# DL
+# Deep Learning Projects
 
-1 = installing packages 
-2 = implementing feed forward neural network with keras and tensorflow
-3 = image classification model
-4 = Autoencode for anomaly detection 
-5 = Continuous Bag of Words (CBOW) Model
-6 = Object detection using Transfer Learning of CNN
+1. Installing Packages  
+2. Implementing Feed Forward Neural Network with Keras and TensorFlow  
+3. Image Classification Model  
+4. Autoencoder for Anomaly Detection  
+5. Continuous Bag of Words (CBOW) Model  
+6. Object Detection using Transfer Learning of CNN  
